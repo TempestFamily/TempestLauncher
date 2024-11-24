@@ -1,27 +1,28 @@
 {
-  "Redux Tempest":{
-    "version":"1.5",
-    "link":"https://drive.google.com/file/d/1A-BgVQ4j-JLK5LX_K9TGtW-p-CmV4rp_/view?usp=sharing",
-    "links_images":[]
-  },
-  "Redux SAKUTA MCL MAP":{
-    "version":"2.0",
-    "link":"",
-    "links_images":[]
-  },
-  "Redux DRAIN WHITE TREES MCL MAP":{
-    "version":"2.0",
-    "link":"https://drive.google.com/file/d/1AU-NI0cjPpf7uZKtBg25_yJwBeZ5dxcy/view?usp=drive_link",
-    "links_images":[]
-  },
-  "test_4":{
-    "version":"4.4",
-    "link":"",
-    "links_images":[]
-  },
-  "test_5":{
-    "version":"5.1",
-    "link":"",
-    "links_images":[]
-  }
+    "Redux Tempest": {
+        "version": "1.5",
+        "link": "https://drive.google.com/file/d/1A-BgVQ4j-JLK5LX_K9TGtW-p-CmV4rp_/view?usp=sharing",
+        "links_images": []
+    },
+    "Redux SAKUTA MCL MAP": {
+        "version": "2.0",
+        "link": "",
+        "links_images": []
+    },
+    "Redux DRAIN WHITE TREES MCL MAP": {
+        "version": "2.0",
+        "link": "https://drive.google.com/file/d/1AU-NI0cjPpf7uZKtBg25_yJwBeZ5dxcy/view?usp=drive_link",
+        "links_images": []
+    },
+    "test_4": {
+        "version": "4.4",
+        "link": "",
+        "links_images": []
+    },
+    "test_5": {
+        "version": "5.1",
+        "link": "",
+        "links_images": []
+    },
+    "new_key": "new_value"
 }
