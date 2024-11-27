@@ -13,14 +13,6 @@
             ]
         }
     },
-    "Gunpacks": {
-        "testGun": {
-            "version": "4.7",
-            "link": "http",
-            "links_images": [
-                "1659786827_3-kartinkin-net-p-krasivie-oboi-na-rabochii-stol-anime-krasi-4.jpg"
-            ]
-        }
-    },
+    "Gunpacks": {},
     "Sounds": {}
 }
