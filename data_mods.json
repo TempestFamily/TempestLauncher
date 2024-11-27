@@ -22,11 +22,5 @@
             ]
         }
     },
-    "Sounds": {
-        "awDASAWd": {
-            "version": "3.9",
-            "link": "http",
-            "links_images": []
-        }
-    }
+    "Sounds": {}
 }
