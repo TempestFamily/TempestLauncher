@@ -22,11 +22,5 @@
             ]
         }
     },
-    "Sounds": {
-        "efsefsEf": {
-            "version": "4.0",
-            "link": "http",
-            "links_images": []
-        }
-    }
+    "Sounds": {}
 }
