@@ -11,6 +11,16 @@
             "links_images": []
         }
     },
-    "Gunpacks": {},
+    "Gunpacks": {
+        "AWDASwrfgzg": {
+            "version": "1.8",
+            "link": "http",
+            "links_images": [
+                "daDAD.jpg",
+                "dawdaw.jpg",
+                "dAWDsa.jpg"
+            ]
+        }
+    },
     "Sounds": {}
 }
