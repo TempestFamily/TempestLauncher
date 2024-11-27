@@ -13,14 +13,6 @@
             ]
         }
     },
-    "Gunpacks": {
-        "GunpackTest": {
-            "version": "1.7",
-            "link": "http",
-            "links_images": [
-                "FekStU7Gfyw.jpg"
-            ]
-        }
-    },
+    "Gunpacks": {},
     "Sounds": {}
 }
