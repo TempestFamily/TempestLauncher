@@ -13,6 +13,14 @@
             ]
         }
     },
-    "Gunpacks": {},
+    "Gunpacks": {
+        "dawdawd": {
+            "version": "6.7",
+            "link": "http",
+            "links_images": [
+                "anime-4k-pc-desktop-wallpaper-preview.jpg"
+            ]
+        }
+    },
     "Sounds": {}
 }
