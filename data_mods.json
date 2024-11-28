@@ -1,34 +1,5 @@
 {
-    "Reduxes": {
-        "Redux DRAIN WHITE TREES MCL MAP": {
-            "version": "2.0",
-            "link": "https://drive.google.com/file/d/1AU-NI0cjPpf7uZKtBg25_yJwBeZ5dxcy/view?usp=drive_link",
-            "links_images": [
-                "forever-7th-capital-anime-4k-4x.jpg"
-            ]
-        },
-        "Redux Tempest": {
-            "version": "1.5",
-            "link": "https://drive.google.com/file/d/1A-BgVQ4j-JLK5LX_K9TGtW-p-CmV4rp_/view?usp=drive_link",
-            "links_images": [
-                "anime-4k-pc-desktop-wallpaper-preview.jpg",
-                "276483367.png"
-            ]
-        },
-        "fwefsdfwe": {
-            "version": "3.2",
-            "link": "http",
-            "links_images": []
-        }
-    },
-    "Gunpacks": {
-        "rytgerfgswEWf": {
-            "version": "2.4",
-            "link": "http",
-            "links_images": [
-                "dAWDsa.jpg"
-            ]
-        }
-    },
+    "Reduxes": {},
+    "Gunpacks": {},
     "Sounds": {}
 }
