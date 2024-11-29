@@ -3,12 +3,9 @@
         "Redux Tempest": {
             "version": "1.5",
             "link": "https://drive.google.com/file/d/1A-BgVQ4j-JLK5LX_K9TGtW-p-CmV4rp_/view?usp=drive_link",
-            "links_images": [
-                "dawdaw.jpg",
-                "daDAD.jpg"
-            ],
-            "link_video": "https://youtu.be/8Nrf135VgkE?si=DfnHVJ9b1qn939DA",
-            "description": "Redux Tempest\nhttps://drive.google.com/file/d/1A-BgVQ4j-JLK5LX_K9TGtW-p-CmV4rp_/view?usp=drive_link\nhttps://youtu.be/8Nrf135VgkE?si=DfnHVJ9b1qn939DA\n"
+            "links_images": [],
+            "link_video": "",
+            "description": "Redux Tempest\nhttps://drive.google.com/file/d/1A-BgVQ4j-JLK5LX_K9TGtW-p-CmV4rp_/view?usp=drive_link\nhttps://youtu.be/8Nrf135VgkE?si=DfnHVJ9b1qn939DA\n\n"
         }
     },
     "Gunpacks": {},
