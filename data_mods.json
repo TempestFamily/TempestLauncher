@@ -8,6 +8,20 @@
             "description": "Redux Tempest\nhttps://drive.google.com/file/d/1A-BgVQ4j-JLK5LX_K9TGtW-p-CmV4rp_/view?usp=drive_link\nhttps://youtu.be/8Nrf135VgkE?si=DfnHVJ9b1qn939DA\n\n"
         }
     },
-    "Gunpacks": {},
+    "Gunpacks": {
+        "Red Devil GunPack": {
+            "version": "1.0",
+            "link": "https://drive.google.com/file/d/1Cz3jR3CX92eE8WqZjXQ6vP6dLf7UizSZ/view?usp=sharing",
+            "links_images": [
+                "guns1.mp4_snapshot_00.01.267.png",
+                "guns1.mp4_snapshot_00.06.684.png",
+                "guns1.mp4_snapshot_00.11.461.png",
+                "guns1.mp4_snapshot_00.18.271.png",
+                "guns1.mp4_snapshot_00.24.694.png"
+            ],
+            "link_video": "",
+            "description": "\n"
+        }
+    },
     "Sounds": {}
 }
