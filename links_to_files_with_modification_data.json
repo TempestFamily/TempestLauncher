@@ -1,3 +1,6 @@
 {
-  "links":["https://tempestfamily.github.io/TempestLauncher/data_mods.json"]
+  "Tempest":{
+    "link":"https://tempestfamily.github.io/TempestLauncher/data_mods.json",
+    "safely":True
+  }
 }
