@@ -9,20 +9,6 @@
         }
     },
     "Maps": {},
-    "Gunpacks": {
-        "Red Devil GunPack": {
-            "version": "1.0",
-            "link": "https://drive.google.com/file/d/1mZjgSVcx6YR2gng2vu7dXEtM9Tfl_TfR/view?usp=drive_link",
-            "links_images": [
-                "guns1.mp4_snapshot_00.01.267.png",
-                "guns1.mp4_snapshot_00.06.684.png",
-                "guns1.mp4_snapshot_00.11.461.png",
-                "guns1.mp4_snapshot_00.18.271.png",
-                "guns1.mp4_snapshot_00.24.694.png"
-            ],
-            "link_video": "",
-            "description": "\n\n"
-        }
-    },
+    "Gunpacks": {},
     "Sounds": {}
 }
